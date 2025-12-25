@@ -1,0 +1,14 @@
+# Unity specific
+.vs/
+.idea/
+Library/
+Temp/
+obj/
+Build/
+build/
+Logs/
+
+# Web build-specific
+*.log
+*.bak
+
